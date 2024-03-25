@@ -1,0 +1,1 @@
+/mnt/f/projects/sync-git.sh
